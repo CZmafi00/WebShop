@@ -1,0 +1,57 @@
+body,h1,h2,h3,h4,h5,h6,.w3-wide {
+    font-family: "Montserrat", sans-serif;
+}
+
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+
+/**** #overrides */
+
+/* overrides */
+
+/**** #shapes & sizes */
+
+.width-50 {
+    width: 50% !important;
+}
+
+.width-60 {
+    width: 60% !important;
+}
+
+.width-100 {
+    width: 100% !important;
+}
+
+.height-80px {
+    height: 80px !important;
+}
+
+.height-400-px {
+    height: 400px !important;
+}
+
+.height-450-px {
+    height: 500px !important;
+}
+
+.margin-top-60px {
+    margin-top: 60px !important;
+}
+
+/* shapes & sizes */
+
+/**** #inputs */
+
+.input-cart-qty {
+    width: 110px;
+}
+
+/* inputs */
+
+/**** #display */
+
+.clear-both {
+    clear: both;
+}
+
+/* display */

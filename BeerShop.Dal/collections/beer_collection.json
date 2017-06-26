@@ -1,0 +1,17 @@
+[
+  {"name":"Hirter crveni","category":"Ostalo","price":"6.00","imgurl":"img_hirter_crveni.jpg"},
+  {"name":"Hirter svijetli","category":"Svijetlo","price":"7.00","imgurl":"img_hirter_svijetli.jpg"},
+  {"name":"Hirter tamni","category":"Tamno","price":"7.00","imgurl":"img_hirter_tamni.jpg"},
+  {"name":"Specijalno kasacko","category":"Tamno","price":"7.00","imgurl":"img_kasacko.png"},
+  {"name":"Matanovo pivo","category":"Svijetlo","price":"6.00","imgurl":"img_matanovo_pivo.jpg"},
+  {"name":"Paulaner svijetli lager","category":"Svijetlo","price":"6.00","imgurl":"img_paulaner_lager_svijetli.png"},
+  {"name":"Paulaner svijetli","category":"Psenicno","price":"7.00","imgurl":"img_paulaner_svijetli.jpg"},
+  {"name":"Paulaner tamni","category":"Psenicno","price":"7.00","imgurl":"img_paulaner_tamni.jpg"},
+  {"name":"San servolo apa","category":"Ostalo","price":"8.00","imgurl":"img_san_servolo_apa.jpg"},
+  {"name":"San servolo pale ale","category":"Ostalo","price":"8.00","imgurl":"img_san_servolo_pale_ale.jpg"},
+  {"name":"Varionica pale ale","category":"Ostalo","price":"8.00","imgurl":"img_varionica_pale_ale.jpg"},
+  {"name":"Velebitsko svijetlo","category":"Svijetlo","price":"6.00","imgurl":"img_velebitsko_svijetlo.jpg"},
+  {"name":"Velebitsko tamno","category":"Tamno","price":"7.00","imgurl":"img_velebitsko_tamno.jpg"},
+  {"name":"Vukovarsko","category":"Svijetlo","price":"6.00","imgurl":"img_vukovarsko.jpg"},
+  {"name":"Zmajsko pale ale","category":"Ostalo","price":"8.00","imgurl":"img_zmajsko_pale_ale.jpg"}
+]

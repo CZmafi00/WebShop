@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MVC">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVC</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BeerShop.MVC" />
+          <element id="module-output" name="BeerShop.Common" />
+          <element id="module-output" name="BeerShop.Core" />
+          <element id="module-output" name="BeerShop.Dal" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="com.google.code.gson:gson:2.8.1" />
+          <element id="library" level="project" name="org.mongodb:mongodb-driver:3.4.2" />
+          <element id="library" level="project" name="javax.mail:mail:1.4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="BeerShop.MVC/web/Web" />
+    </root>
+  </artifact>
+</component>

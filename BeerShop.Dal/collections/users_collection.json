@@ -1,0 +1,77 @@
+[
+  {"name":"guest","email":"guest@beershop.com","role":"Guest",
+    "purchases":
+    [
+      {"date":"2017/18/05","totalPrice":"96.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"Specijalno kasacko","qty":"10","totalPrice":"70.0"},
+          {"item":"Velebitsko svijetlo","qty":"4","totalPrice":"26.0"}
+        ],
+        "name":"Miro","lastName":"Miric","email":"miro@mail.com","adress":
+      {"adress":"Ilica 126","city":"Zagreb","zip":"10000"}
+      },
+      {"date":"2017/18/05","totalPrice":"108.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"Zmajsko pale ale","qty":"10","totalPrice":"80.0"},
+          {"item":"Paulaner tamni","qty":"4","totalPrice":"28.0"}
+        ],
+        "name":"Ana","lastName":"Anic","email":"anic.ana@mail.com","adress":
+      {"adress":"Vukovarska 90","city":"Zagreb","zip":"10000"}
+      },
+      {"date":"2017/18/05","totalPrice":"120.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"Matanovo pivo","qty":"12","totalPrice":"72.0"},
+          {"item":"Varionica pale ale","qty":"6","totalPrice":"48.0"}
+        ],
+        "name":"Miro","lastName":"Miric","email":"miro@mail.com","adress":
+      {"adress":"Ilica 126","city":"Zagreb","zip":"10000"}
+      }
+    ]
+  },
+  {"name":"Mario","lastName":"Filjak","email":"mariofiljak@hotmail.com",
+  "password":"1234","role":"Customer","adress":{"adress":"Ilica 95","city":"Zagreb","zip":"10000"},
+    "purchases":
+    [
+      {"date":"2017/18/05","totalPrice":"140.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"Hirter red","qty":"10","totalPrice":"70.0"},
+          {"item":"Hirter tamni","qty":"10","totalPrice":"70.0"}
+        ]
+      },
+      {"date":"2017/10/05","totalPrice":"140.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"San servolo apa","qty":"10","totalPrice":"80.0"},
+          {"item":"Velebitsko svijetlo","qty":"10","totalPrice":"60.0"}
+        ]
+      }
+    ]
+  },
+  {"name":"Iva","lastName":"Ivic","email":"iva@mail.com",
+    "password":"1234","role":"Customer","adress":{"adress":"Maksimirska 85","city":"Zagreb","zip":"10000"},
+    "purchases":
+    [
+      {"date":"2017/18/05","totalPrice":"140.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"Paulaner svijetli","qty":"10","totalPrice":"70.0"},
+          {"item":"Paulaner tamni","qty":"10","totalPrice":"70.0"}
+        ]
+      },
+      {"date":"2017/10/05","totalPrice":"140.0","purchaseType":"cash",
+        "items":
+        [
+          {"item":"San servolo apa","qty":"10","totalPrice":"80.0"},
+          {"item":"Vukovarsko","qty":"10","totalPrice":"60.0"}
+        ]
+      }
+    ]
+  },
+  {"name":"Mario","lastName":"Filjak","email":"mario.filjak@racunarstvo.hr","password":"1234",
+  "role":"Admin"}
+]
+

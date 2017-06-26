@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeerShop.Common/BeerShop.Common.iml" filepath="$PROJECT_DIR$/BeerShop.Common/BeerShop.Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeerShop.Core/BeerShop.Core.iml" filepath="$PROJECT_DIR$/BeerShop.Core/BeerShop.Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeerShop.Dal/BeerShop.Dal.iml" filepath="$PROJECT_DIR$/BeerShop.Dal/BeerShop.Dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeerShop.MVC/BeerShop.MVC.iml" filepath="$PROJECT_DIR$/BeerShop.MVC/BeerShop.MVC.iml" />
+    </modules>
+  </component>
+</project>

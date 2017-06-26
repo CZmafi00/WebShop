@@ -1,0 +1,6 @@
+{
+  "dbName":"beerShopDB",
+  "host":"localhost",
+  "port":"27017",
+  "collections":["beerCollection","loginCollection","usersCollection"]
+}
